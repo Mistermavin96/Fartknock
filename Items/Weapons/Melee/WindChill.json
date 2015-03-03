@@ -15,7 +15,7 @@
 	"autoReuse": true,
 	"shoot": 409,
 	"shootSpeed": 4,
-	"notMaterial": true, //Hi
+	"notMaterial": true,
 	
 	"recipes":
 	[
