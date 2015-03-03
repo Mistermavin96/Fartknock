@@ -1,0 +1,26 @@
+{
+	"displayName": "Gladius",
+	"size": [72, 72],
+	"maxStack": 1,
+	"value": [0,50,0,0],
+	"rare": 9,
+	"damage": 110,
+	"knockback": 7,
+	"tooltip": "'Elements incarnate'",
+    "useTime": 30,
+    "useAnimation": 25,
+	"useSound": 1,
+	"melee": true,
+	"autoReuse": true,
+	"useStyle": 1,
+	"shoot": 79,
+	"shootSpeed": 4.5,
+	"notMaterial": true,
+	
+	"recipes": 
+	[{
+			"items": { "Thunderbrand": 1, "NatureGlory": 1, "UnleashBlade": 1, "WindChill": 1 },
+			"tiles": [ "Mythril Anvil" ],
+			"creates": 1
+	}]
+}

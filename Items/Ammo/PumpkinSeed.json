@@ -1,0 +1,24 @@
+{
+    "displayName": "Pumpkin Seed",
+    "size": [28,24],
+    "maxStack": 999,
+    "value": [0,0,1,0],
+    "rare": 0,
+    "tooltip": "Pumpkin Seeds in your butt",
+	"ammo": "Poopfarce",
+	"damage": 2,
+	"ranged": true,
+
+    "recipes":
+    [{
+        "items": { "Pumpkin": 1},
+        "tiles": [ "Work Bench" ],
+        "creates": 10
+    },
+	
+	{
+        "items": { "Pumpkin Seed": 1},
+        "tiles": [ "Work Bench" ],
+        "creates": 1
+    }]
+}

@@ -1,0 +1,24 @@
+{
+    "displayName": "Banana Split",
+    "maxStack": 20,
+    "value": [0,25,0,0],
+    "size": [46, 54],
+    "rare": 9,
+    "tooltip": "'Bananarang's big bro'",
+    "useStyle": 1,
+    "useTime": 9,
+    "useAnimation": 9,
+    "damage": 140,
+    "knockback": 40,
+    "useSound": 1,
+	"useEffect": 19,
+    "autoReuse": true,
+    "melee": true,
+    "shoot": 272,
+    "recipes": 
+	[{
+		"items": { "Bananarang": 10, "Terra Blade": 1 },
+		"tiles": [ "Mythril Anvil" ],
+		"creates": 10
+    }]
+}

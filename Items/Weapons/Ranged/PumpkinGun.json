@@ -1,0 +1,29 @@
+{
+	"displayName": "Pumpkin Gun",
+	"size": [42,40],
+	"maxStack": 1,
+	"value": [0,0,0,75],
+	"tooltip": "Shooting Pumpkins like a boss",
+	"ranged": true,
+	"damage": 10,
+	"knockback": 3.5,
+	"autoReuse": true,
+	"useTime": 45,
+	"useAnimation": 45,
+	"shootSpeed": 8,
+	"useStyle": 5,
+	"noMelee": true,
+	"shoot": 14,
+	"useAmmo": "Poopfarce",
+	"recipes": [
+		{
+			"items": {
+				"Pumpkin": 20
+			},
+			"tiles": [
+				"Work Bench"
+			],
+			"creates": 1
+		}
+	]
+}

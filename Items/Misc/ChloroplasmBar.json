@@ -1,0 +1,15 @@
+{
+    "displayName": "Chloroplasm Bar",
+    "size": [46, 54],
+    "maxStack": 99,
+    "value": [0,0,1,0],
+    "rare": 4,
+    "tooltip": "You can feel the tension in the air!",
+
+    "recipes":
+    [{
+        "items": { "Chlorophyte Bar": 1, "Ectoplasm": 1},
+        "tiles": [ "Mythril Anvil" ],
+        "creates": 1
+    }]
+}

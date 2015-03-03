@@ -1,0 +1,13 @@
+{
+	"displayName": "Pumpkin Seeds",
+	"size": [
+		18,
+		24
+	],
+	"aiStyle": 14,
+	"friendly": true,
+	"hostile": true,
+	"tileCollide": true,
+	"ranged": true,
+	"shootSpeed": 5
+}

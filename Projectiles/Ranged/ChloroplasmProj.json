@@ -1,0 +1,13 @@
+{
+	"displayName": "Chloroplasm Bullet",
+	"size": [
+		12,
+		12
+	],
+	"aiStyle": 36,
+	"friendly": true,
+	"hostile": false,
+	"tileCollide": true,
+	"ranged": true,
+	"shootSpeed": 5
+}

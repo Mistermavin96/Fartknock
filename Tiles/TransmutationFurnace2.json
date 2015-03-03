@@ -1,0 +1,21 @@
+{
+	"displayName": "Transmutation Furnace MK2",
+	"size": [3,2],
+	"frameWidth": 16,
+	"frameHeight": 16,
+	"frameImportant": true,
+	"solid": false,
+	"placementOrigin": [1,2],
+	"placementConditions": "flatGround",
+	"drop": "LRPMod:TransmutationFurnace2",
+	"breaksByPick": true,	
+	"dust": 1,
+	"sound": 1,
+	"soundGroup": 21,
+	"frameCounterMax": 10,
+	"mapHoverText": "Transmutation Furnace MK2",
+	"solidTop": true,
+	"blocksLight": false,
+	"blocksSun": false,
+	"mergeDirt": false
+}

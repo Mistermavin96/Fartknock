@@ -1,0 +1,25 @@
+{
+	"displayName": "Lux Gladius",
+	"size": [72, 72],
+	"maxStack": 1,
+	"value": [0,50,0,0],
+	"rare": 9,
+	"damage": 155,
+	"knockback": 7.5,
+	"tooltip": "'Docter, I think I might be a homosexual.' 'How can you tell?' 'RAINBOWS!!'",
+    "useTime": 25,
+    "useAnimation": 20,
+	"useSound": 1,
+	"melee": true,
+	"autoReuse": true,
+	"useStyle": 1,
+	"shoot": 79,
+	"shootSpeed": 5,
+	
+	"recipes": 
+	[{
+			"items": { "Gladius": 1, "Broken Hero Sword": 1 },
+			"tiles": [ "Mythril Anvil" ],
+			"creates": 1
+	}]
+}

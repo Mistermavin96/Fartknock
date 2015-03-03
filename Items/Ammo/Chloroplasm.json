@@ -1,0 +1,27 @@
+{
+	"displayName": "Chloroplasm Bullet",
+	"size": [12, 12],
+	"maxStack": 999,
+	"value": [0, 0, 87, 98],
+	"rare": 8,
+	"tooltip": "Lifesteal for Rangers?",
+	"damage": 7,
+	"knockback": 4.4,
+	"ammo": 14,
+	"shoot": "ChloroplasmProj",
+	"shootSpeed": 5,
+	"ranged": true,
+	"consumable": true,
+	"recipes": [
+		{
+			"items": {
+				"Chlorophyte Bullet": 70,
+				"Ectoplasm": 1
+			},
+			"tiles": [
+				"Mythril Anvil"
+			],
+			"creates": 70
+		}
+	]
+}

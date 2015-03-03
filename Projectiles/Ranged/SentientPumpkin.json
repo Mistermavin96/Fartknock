@@ -1,0 +1,13 @@
+{
+	"displayName": "Sentient Pumpkin",
+	"size": [
+		32,
+		30
+	],
+	"aiStyle": 56,
+	"friendly": true,
+	"hostile": false,
+	"tileCollide": true,
+	"ranged": true,
+	"shootSpeed": 5
+}

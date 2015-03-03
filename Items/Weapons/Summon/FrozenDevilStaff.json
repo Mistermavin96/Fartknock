@@ -1,0 +1,31 @@
+{
+    "displayName": "Frozen Devil Staff",
+    "size": [46, 54],
+    "maxStack": 1,
+    "value": [1, 0, 0, 0],
+    "rare": 5,
+    "useStyle": 1,
+    "useAnimation": 18,
+    "tooltip": "Spawns a Frost Devil from the depths.",
+    "useTime": 18,
+    "useSound": 44,
+    "damage": 30,
+    "knockback": 5,
+    "autoReuse": false,
+    "noMelee": true,
+    "shoot": "LRPMod:FrostDevil",
+    "shootSpeed": 3,
+    "summon": true,
+    "buff": "LRPMod:FrostDevil",
+    "buffTime": 999999999,
+    "mana": 10,
+	
+	"recipes": 
+	[
+		{
+			"items": { "Imp Staff": 1, "Frost Staff": 1 },
+			"tiles": [ "Mythril Anvil" ],
+			"creates": 1
+		}
+	]
+}

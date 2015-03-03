@@ -1,0 +1,13 @@
+{
+    "displayName": "Frost Devil",
+    "size": [46, 54],
+    "aiStyle": 54,
+    "timeLeft": 999999999,
+    "friendly": true,
+    "hostile": false,
+    "tileCollide": false,
+    "damage": 33,
+    "minion": true,
+    "minionSlots": 1,
+    "penetrate": -1
+}

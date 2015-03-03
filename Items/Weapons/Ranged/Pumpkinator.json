@@ -1,0 +1,32 @@
+{
+	"displayName": "The Pumpkinator",
+	"size": [42,40],
+	"maxStack": 1,
+	"value": [0,80,0,0],
+	"tooltip": "Shooting Pumpkins like a bosses boss",
+	"ranged": true,
+	"damage": 65,
+	"knockback": 4,
+	"autoReuse": true,
+	"useTime": 25,
+	"useAnimation": 25,
+	"shootSpeed": 8,
+	"useStyle": 5,
+	"noMelee": true,
+	"shoot": 14,
+	"useAmmo": "FullPumpkin",
+	"recipes": [
+		{
+			"items": {
+				"PumpkinGun": 1,
+				"Illegal Gun Parts": 1,
+				"Jack 'O Lantern Launcher": 1,
+				"ChloroplasmBar": 15
+			},
+			"tiles": [
+				"Mythril Anvil"
+			],
+			"creates": 1
+		}
+	]
+}

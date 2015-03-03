@@ -1,0 +1,34 @@
+{
+    "displayName": "Transmutation Furnace MK2",
+    "size": [46,54],
+    "maxStack": 99,
+    "value": [0,0,1,0],
+    "rare": 4,
+    "tooltip": "Turn those old ores into new ones, and back again with the touch of a button! Now with more capabilities!",
+	"useStyle": 1,
+	"createTile": "LRPMod:TransmutationFurnace2",
+	"useAnimation": 15,
+	"useTime": 10,
+	"autoReuse": true,
+	"useTurn": true,
+	"consumable": true,
+	
+    "recipes":
+    [{
+        "items": { "Adamantite Forge": 1, "DarkMatter": 30},
+        "tiles": [ "Mythril Anvil" ],
+        "creates": 1
+    },
+	
+	{
+	    "items": { "TransmutationFurnace1": 1, "DarkMatter": 15},
+        "tiles": [ "Mythril Anvil" ],
+        "creates": 1
+	},
+	
+	{
+	    "items": { "Titanium Forge": 1, "DarkMatter": 30},
+        "tiles": [ "Mythril Anvil" ],
+        "creates": 1
+	}]
+}

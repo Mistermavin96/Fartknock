@@ -1,0 +1,32 @@
+{
+	"displayName": "Wind Chill",
+	"size": [60,60],
+	"maxStack": 1,
+	"value": [0,5,0,0],
+	"rare": 8,
+	"damage": 50,
+	"knockback": 10.5,
+	"tooltip": "The frost of winter's breeze",
+    "useStyle": 1,
+    "useTime": 30,
+    "useAnimation": 30,
+	"useSound": 5,
+	"melee": true,
+	"autoReuse": true,
+	"shoot": 409,
+	"shootSpeed": 4,
+	"notMaterial": true,
+	
+	"recipes":
+	[
+		{
+		"items":
+			{	"Broken Hero Sword": 1,
+				"Ice Blade": 1
+			},
+		"tiles":
+			[ "Orichalcum Anvil" ],
+		"creates": 1
+		}
+	]
+}

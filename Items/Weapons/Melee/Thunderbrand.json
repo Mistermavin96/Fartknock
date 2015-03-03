@@ -1,0 +1,31 @@
+{
+	"displayName": "Thunderbrand",
+	"size": [42, 42],
+	"maxStack": 1,
+	"value": [0,5,0,0],
+	"rare": 8,
+	"damage": 50,
+	"knockback": 6,
+	"tooltip": "'May the skies reign down upon your enemies'",
+    "useStyle": 1,
+    "useTime": 20,
+    "useAnimation": 15,
+	"useSound": 5,
+	"melee": true,
+	"autoReuse": true,
+	"shoot": 9,
+	"shootSpeed": 30,
+	
+	"recipes": 
+	[
+		{
+			"items":
+			{ "Starfury": 1,
+			"Broken Hero Sword": 1
+			},
+			"tiles":
+			[ "Mythril Anvil" ],
+			"creates": 1
+		}
+	]
+}

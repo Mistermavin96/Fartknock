@@ -1,0 +1,24 @@
+{
+    "displayName": "Transmutation Furnace MK1",
+    "size": [46,54],
+    "maxStack": 99,
+    "value": [0,0,1,0],
+    "rare": 2,
+    "tooltip": "Turn those old ores into new ones, and back again with the touch of a button!",
+	"useStyle": 1,
+	"createTile": "LRPMod:TransmutationFurnace1",
+	"useAnimation": 15,
+	"useTime": 10,
+	"autoReuse": true,
+	"useTurn": true,
+	"notMaterial": true,
+	"consumable": true,
+	
+
+    "recipes":
+    [{
+        "items": { "Furnace": 1, "EarthMaterial": 30},
+        "tiles": [ "Iron Anvil" ],
+        "creates": 1
+    }]
+}

@@ -1,0 +1,15 @@
+{
+    "displayName": "Dark Matter",
+    "size": [46, 54],
+    "maxStack": 999,
+    "value": [0,0,1,0],
+    "rare": 4,
+    "tooltip": "The dark side of the matter",
+
+    "recipes":
+    [{
+        "items": { "Soul of Night": 1, "Soul of Light": 1},
+        "tiles": [ "Mythril Anvil" ],
+        "creates": 1
+    }]
+}

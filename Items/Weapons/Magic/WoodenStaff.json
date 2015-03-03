@@ -1,0 +1,136 @@
+{
+	"displayName": "Wooden Staff",
+	"size": [
+		42,
+		40
+	],
+	"maxStack": 1,
+	"value": [
+		0,
+		0,
+		1,
+		0
+	],
+	"rare": 0,
+	"damage": 8,
+	"knockback": 3.25,
+	"noMelee": true,
+	"magic": true,
+	"mana": 3,
+	"shootSpeed": 3,
+	"autoReuse": false,
+	"useStyle": 1,
+	"useSound": 8,
+	"useTime": 45,
+	"shoot": 122,
+	"useAnimation": 35,
+	"tooltip": "'That's some fine wood'",
+	"recipes": [
+			{
+			"items": {
+				"Wood": 20,
+				"Fallen Star": 1
+				},
+				"tiles": [
+					"Work Bench"
+				],
+				"creates": 1
+			},
+			
+			{
+			"items": {
+				"Boreal Wood": 20,
+				"Fallen Star": 1
+				},
+				"tiles": [
+					"Work Bench"
+				],
+				"creates": 1
+			},
+			
+			{
+			"items": {
+				"Palm Wood": 20,
+				"Fallen Star": 1
+				},
+				"tiles": [
+					"Work Bench"
+				],
+				"creates": 1
+			},
+			
+			{
+			"items": {
+				"Ebonwood": 20,
+				"Fallen Star": 1
+				},
+				"tiles": [
+					"Work Bench"
+				],
+				"creates": 1
+			},
+			
+			{
+			"items": {
+				"Shadewood": 20,
+				"Fallen Star": 1
+				},
+				"tiles": [
+					"Work Bench"
+				],
+				"creates": 1
+			},
+			
+			{
+			"items": {
+				"Pearlwood": 20,
+				"Fallen Star": 1
+				},
+				"tiles": [
+					"Work Bench"
+				],
+				"creates": 1
+			},
+			
+			{
+			"items": {
+				"Dynasty Wood": 20,
+				"Fallen Star": 1
+				},
+				"tiles": [
+					"Work Bench"
+				],
+				"creates": 1
+			},
+			
+			{
+			"items": {
+				"Spooky Wood": 20,
+				"Fallen Star": 1
+				},
+				"tiles": [
+					"Work Bench"
+				],
+				"creates": 1
+			},
+			
+			{
+			"items": {
+				"Rich Mahogany": 20,
+				"Fallen Star": 1
+				},
+				"tiles": [
+					"Work Bench"
+				],
+				"creates": 1
+			}
+		]
+	}
+	
+			
+			
+			
+
+			
+			
+				

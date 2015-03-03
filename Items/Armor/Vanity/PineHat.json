@@ -1,0 +1,19 @@
+{
+    "displayName": "Pine Hat",
+    "size": [24,16],
+    "maxStack": 1,
+    "value": [0,0,6,0],
+    "rare": 1,
+    "tooltip": "Straight from the north",
+    "armorHead": true,
+    "hairType": 2,
+	"vanity": true,
+
+    "recipes":
+    [{
+        "items": {	"Pine Tree Block": 15,
+					"Robot Hat": 1},
+        "tiles": [ "Work Bench" ],
+        "creates": 1
+    }]
+}

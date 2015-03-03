@@ -1,0 +1,21 @@
+{
+    "displayName": "Sentient Pumpkin",
+    "size": [32,30],
+    "maxStack": 999,
+    "value": [0,0,0,25],
+    "rare": 0,
+    "tooltip": "Giant Pumpkins in your butt",
+	"ammo": "FullPumpkin",
+	"damage": 25,
+	"consumable": true,
+	"shoot": "SentientPumpkin",
+	"ranged": true,
+
+    "recipes":
+    [{
+        "items": { 	"Explosive Jack 'O Lantern": 50,
+					"ChloroplasmBar": 1},
+        "tiles": [ "Mythril Anvil" ],
+        "creates": 50
+    }]
+}

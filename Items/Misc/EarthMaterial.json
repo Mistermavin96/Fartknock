@@ -1,0 +1,21 @@
+{
+    "displayName": "Earth Material",
+    "size": [46, 54],
+    "maxStack": 999,
+    "value": [0,0,1,0],
+    "rare": 4,
+    "tooltip": "The essense of the ground",
+
+    "recipes":
+    [{
+        "items": { "Grass Seeds": 1, "Corrupt Seeds": 1},
+        "tiles": [ "Iron Anvil"	],
+        "creates": 1
+    },
+	
+	{
+        "items": { "Grass Seeds": 1, "Crimson Seeds": 1},
+        "tiles": [ "Iron Anvil" ],
+        "creates": 1
+    }]
+}
