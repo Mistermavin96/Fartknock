@@ -6,7 +6,7 @@
 	"rare": 9,
 	"damage": 110,
 	"knockback": 7,
-	"tooltip": "'Elements incarnate'",
+	"tooltip": "'This isn't even my final form!'",
     "useTime": 30,
     "useAnimation": 25,
 	"useSound": 1,
