@@ -1,0 +1,25 @@
+{
+	"displayName": "Cursed Pickaxe",
+	"size": [52, 44],
+	"maxStack": 1,
+	"value": [0,0,80,0],
+	"rare": 4,
+	"damage": 14,
+	"knockback": 3.5,
+	"tooltip": "You can feel the heat!",
+    "useTime": 13,
+    "useAnimation": 24,
+	"useSound": 1,
+	"pick": 100,
+	"melee": true,
+	"autoReuse": true,
+	"useStyle": 1,
+	"notMaterial": true,
+	
+	"recipes": 
+	[{
+			"items": { "Molten Pickaxe": 1, "Cursed Flame": 7 },
+			"tiles": [ "Iron Anvil" ],
+			"creates": 1
+	}]
+}
