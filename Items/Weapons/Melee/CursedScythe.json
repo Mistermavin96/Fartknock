@@ -1,0 +1,26 @@
+{
+	"displayName": "Cursed Scythe",
+	"size": [64, 58],
+	"maxStack": 1,
+	"value": [0,15,0,0],
+	"rare": 4,
+	"damage": 36,
+	"knockback": 6,
+    "useTime": 50,
+    "useAnimation": 25,
+	"useSound": 1,
+	"melee": true,
+	"autoReuse": true,
+	"useStyle": 1,
+	"shoot": "CursedScytheProj",
+	"shootSpeed": 8,
+	"notMaterial": true,
+	"tooltip": "Cursed spirits inhabit this weapon",
+	
+	"recipes": 
+	[{
+			"items": { "Cursed Flame": 30, "EmberScythe": 1 },
+			"tiles": [ "Iron Anvil" ],
+			"creates": 1
+	}]
+}

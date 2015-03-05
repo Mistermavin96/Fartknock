@@ -8,7 +8,7 @@
 	"ammo": "FullPumpkin",
 	"damage": 25,
 	"consumable": true,
-	"shoot": "SentientPumpkin",
+	"shoot": "SentientPumpkinProj",
 	"ranged": true,
 
     "recipes":

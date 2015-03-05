@@ -1,0 +1,9 @@
+{
+	"displayName": "Corrupted Bolt",
+	"size": [22, 22],
+	"aiStyle": 9,
+	"friendly": true,
+	"hostile": false,
+	"tileCollide": true,
+	"magic": true
+}

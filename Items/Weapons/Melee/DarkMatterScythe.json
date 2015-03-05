@@ -1,0 +1,26 @@
+{
+	"displayName": "Dark Matter Scythe",
+	"size": [64, 64],
+	"maxStack": 1,
+	"value": [0,30,0,0],
+	"rare": 7,
+	"damage": 67,
+	"knockback": 7,
+    "useTime": 40,
+    "useAnimation": 20,
+	"useSound": 1,
+	"melee": true,
+	"autoReuse": true,
+	"useStyle": 1,
+	"shoot": 274,
+	"shootSpeed": 9,
+	"notMaterial": true,
+	"tooltip": "Darker than Death",
+	
+	"recipes": 
+	[{
+			"items": { "DarkMatter": 30, "Death Sickle": 2 },
+			"tiles": [ "Mythril Anvil" ],
+			"creates": 1
+	}]
+}

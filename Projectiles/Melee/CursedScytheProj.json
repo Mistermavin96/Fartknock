@@ -1,0 +1,10 @@
+{
+	"displayName": "Cursed Scythe",
+	"size": [36, 36],
+	"aiStyle": 23,
+	"friendly": true,
+	"hostile": false,
+	"tileCollide": false,
+	"melee": true,
+	"shootSpeed": 5
+}

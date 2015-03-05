@@ -1,0 +1,15 @@
+{
+    "displayName": "FrostFlame Bar",
+    "size": [46, 54],
+    "maxStack": 99,
+    "value": [0,0,1,0],
+    "rare": 4,
+    "tooltip": "Cold to the touch, warm to the taste!",
+
+    "recipes":
+    [{
+        "items": { "Frost Core": 1, "Hallowed Bar": 5, "Hellstone Bar": 5},
+        "tiles": [ "Mythril Anvil" ],
+        "creates": 10
+    }]
+}

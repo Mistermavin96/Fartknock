@@ -1,0 +1,26 @@
+{
+	"displayName": "Frostflame Scythe",
+	"size": [64, 64],
+	"maxStack": 1,
+	"value": [0,20,0,0],
+	"rare": 5,
+	"damage": 44,
+	"knockback": 7,
+    "useTime": 40,
+    "useAnimation": 20,
+	"useSound": 1,
+	"melee": true,
+	"autoReuse": true,
+	"useStyle": 1,
+	"shoot": "FrostflameScytheProj",
+	"shootSpeed": 8,
+	"notMaterial": true,
+	"tooltip": "Taste the chill of the reaper of Hell",
+	
+	"recipes": 
+	[{
+			"items": { "CursedScythe": 1, "Ice Sickle": 1, "FrostflameBar": 15 },
+			"tiles": [ "Mythril Anvil" ],
+			"creates": 1
+	}]
+}

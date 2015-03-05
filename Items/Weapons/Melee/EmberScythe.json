@@ -1,0 +1,26 @@
+{
+	"displayName": "Ember Scythe",
+	"size": [64, 58],
+	"maxStack": 1,
+	"value": [0,10,0,0],
+	"rare": 3,
+	"damage": 31,
+	"knockback": 5.5,
+    "useTime": 60,
+    "useAnimation": 30,
+	"useSound": 1,
+	"melee": true,
+	"autoReuse": true,
+	"useStyle": 1,
+	"shoot": "EmberScytheProj",
+	"shootSpeed": 8,
+	"notMaterial": true,
+	"tooltip": "Hell has a new reaper",
+	
+	"recipes": 
+	[{
+			"items": { "Hellstone Bar": 15, "Sickle": 1 },
+			"tiles": [ "Iron Anvil" ],
+			"creates": 1
+	}]
+}

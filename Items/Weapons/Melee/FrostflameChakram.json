@@ -21,7 +21,7 @@
 	
 	"recipes": 
 	[{
-			"items": { "Blizzarang": 1, "Flamarang": 1, "Hallowed Bar": 8 },
+			"items": { "Blizzarang": 1, "Flamarang": 1, "FrostflameBar": 8 },
 			"tiles": [ "Mythril Anvil" ],
 			"creates": 1
 	}]

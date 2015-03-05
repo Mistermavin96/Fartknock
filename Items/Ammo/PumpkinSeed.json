@@ -5,9 +5,10 @@
     "value": [0,0,1,0],
     "rare": 0,
     "tooltip": "Pumpkin Seeds in your butt",
-	"ammo": "Poopfarce",
+	"ammo": "PumpkinSeed",
 	"damage": 2,
 	"ranged": true,
+	"shoot": "PumpkinSeedProj",
 
     "recipes":
     [{
