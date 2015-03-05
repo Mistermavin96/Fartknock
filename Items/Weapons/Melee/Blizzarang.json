@@ -14,7 +14,7 @@
 	"autoReuse": true,
 	"noUseGraphic": true,
 	"useStyle": 1,
-	"shoot": 113,
+	"shoot": "BlizzarangProj",
 	"shootSpeed": 12,
 	"notMaterial": true,
 	

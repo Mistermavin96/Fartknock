@@ -1,0 +1,28 @@
+{
+	"displayName": "Frostflame Chakram",
+	"size": [32, 32],
+	"maxStack": 1,
+	"value": [0,3,0,0],
+	"rare": 4,
+	"damage": 42,
+	"knockback": 8.5,
+	"tooltip": "Twice the fun!",
+    "useTime": 18,
+    "useAnimation": 18,
+	"useSound": 1,
+	"noMelee": true,
+	"melee": true,
+	"autoReuse": false,
+	"noUseGraphic": true,
+	"useStyle": 1,
+	"shoot": "FrostflameChakramProj",
+	"shootSpeed": 15,
+	"notMaterial": true,
+	
+	"recipes": 
+	[{
+			"items": { "Blizzarang": 1, "Flamarang": 1, "Hallowed Bar": 8 },
+			"tiles": [ "Mythril Anvil" ],
+			"creates": 1
+	}]
+}

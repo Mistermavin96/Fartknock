@@ -1,0 +1,44 @@
+{
+	"displayName": "Corrupt Staff",
+	"size": [32, 32],
+	"maxStack": 1,
+	"value": [0,0,1,0],
+	"rare": 1,
+	"damage": 14,
+	"knockback": 4.5,
+	"noMelee": true,
+	"magic": true,
+	"mana": 7,
+	"shootSpeed": 5,
+	"autoReuse": false,
+	"useStyle": 1,
+	"useSound": 8,
+	"useTime": 20,
+	"shoot": 16,
+	"useAnimation": 20,
+	"tooltip": "Control your shots!",
+	"recipes": [
+			{
+			"items": {
+				"WoodenStaff": 1,
+				"Demonite Bar": 5
+				},
+				"tiles": [
+					"Work Bench"
+				],
+				"creates": 1
+			},
+			
+			{
+				"items": {
+				"Shadow Scale": 8,
+				"Demonite Bar": 12
+				},
+				"tiles": [
+					"Work Bench"
+				],
+				"creates": 1
+				
+			}
+		]
+	}

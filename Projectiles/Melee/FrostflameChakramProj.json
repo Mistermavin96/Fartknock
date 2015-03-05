@@ -1,0 +1,13 @@
+{
+	"displayName": "Frostfire Chakram",
+	"size": [32, 32],
+	"aiStyle": 3,
+	"friendly": true,
+	"hostile": false,
+	"tileCollide": true,
+	"melee": true,
+	"penetrate": -1,
+	"maxUpdates": 2,
+	"light": 0.8,
+	"timeLeft": 80
+}
