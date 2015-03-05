@@ -1,6 +1,6 @@
 {
 	"displayName": "Cursed Pickaxe",
-	"size": [52, 44],
+	"size": [32, 32],
 	"maxStack": 1,
 	"value": [0,0,80,0],
 	"rare": 4,

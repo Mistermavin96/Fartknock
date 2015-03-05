@@ -1,6 +1,6 @@
 {
 	"displayName": "Corrupt Staff",
-	"size": [32, 32],
+	"size": [40, 40],
 	"maxStack": 1,
 	"value": [0,0,1,0],
 	"rare": 1,
