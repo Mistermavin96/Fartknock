@@ -1,0 +1,8 @@
+{
+  	"displayName": "Freezer Burn",
+	"tip": "Brr, so warm!",
+	"debuff": true,
+	"vanityPet": false,
+	"lightPet": false,
+	"enchantment": false
+}
