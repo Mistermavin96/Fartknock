@@ -14,7 +14,7 @@
 	"useStyle": 5,
 	"noMelee": true,
 	"shoot": 14,
-	"useAmmo": "Pumpseed",
+	"useAmmo": "PumpkinSeed",
 	"notMaterial": true,
 	
 	"recipes": [
