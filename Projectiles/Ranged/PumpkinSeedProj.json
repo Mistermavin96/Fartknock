@@ -4,10 +4,10 @@
 		18,
 		24
 	],
-	"aiStyle": 14,
+	"aiStyle": 0,
 	"friendly": true,
-	"hostile": true,
+	"hostile": false,
 	"tileCollide": true,
 	"ranged": true,
-	"shootSpeed": 5
+	"shootSpeed": 7
 }
