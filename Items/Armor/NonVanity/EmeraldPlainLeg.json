@@ -1,0 +1,26 @@
+{
+    "displayName": "Emerald Wood Greaves",
+    "size": [22,18],
+    "maxStack": 1,
+    "value": [0,0,6,0],
+    "rare": 1,
+    "defense": 4,
+    "tooltip": "8% increased melee damage",
+    "armorLegs": true,
+    "setname": "GemEWood",
+
+    "recipes":
+    [{
+        "items": { "Wood Greaves": 1,
+				   "Emerald": 2},
+        "tiles": [ "Work Bench" ],
+        "creates": 1
+    },
+	
+	{
+		"items": { "Sapphire Wood Greaves": 1,
+				   "Emerald": 1},
+        "tiles": [ "Work Bench" ],
+        "creates": 1
+	}]
+}

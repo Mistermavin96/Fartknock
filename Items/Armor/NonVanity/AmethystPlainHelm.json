@@ -1,0 +1,20 @@
+{
+    "displayName": "Amethyst Wood Helmet",
+    "size": [22,16],
+    "maxStack": 1,
+    "value": [0,0,6,0],
+    "rare": 1,
+    "defense": 2,
+    "tooltip": "5% increased melee damage",
+    "armorHead": true,
+    "setname": "GemAWood",
+    "hairType": 0, 
+
+    "recipes":
+    [{
+        "items": { "Wood Helmet": 1,
+				   "Amethyst": 2},
+        "tiles": [ "Work Bench" ],
+        "creates": 1
+    }]
+}
