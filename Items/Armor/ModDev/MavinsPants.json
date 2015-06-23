@@ -1,0 +1,11 @@
+{
+    "displayName": "Mavin's Pants",
+    "size": [18, 12],
+    "maxStack": 1,
+    "value": [0,0,0,0],
+    "rare": 9,
+    "tooltip": "I wear the pants on this dev team!",
+    "armorLegs": true,
+	"setname": "Mavin's Dev Armor",
+	"vanity": true
+}

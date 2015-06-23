@@ -1,0 +1,13 @@
+{
+	"displayName": "Mavin's Cape",
+	"size": [18, 14],
+	"maxStack": 1,
+	"value": [0,0,0,0],
+	"rare": 9,
+	"tooltip": "Who knew that his cape was actually a pair of wings in disguise?? Well, I did of course! :P",
+	"accessory": true,
+	"wings": true,
+	"wingTime": 999999,
+	"wingSpeedMax": 10,
+	"wingRateMult": 30
+}

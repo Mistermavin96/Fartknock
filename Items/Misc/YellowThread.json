@@ -1,0 +1,15 @@
+{
+    "displayName": "Yellow Thread",
+    "size": [56, 40],
+    "maxStack": 99,
+    "value": [0,0,0,0],
+    "rare": 1,
+    "tooltip": "It's yellow. What else is there?",
+
+    "recipes":
+    [{
+        "items": { "Daybloom Seeds": 3},
+        "tiles": [ "Loom" ],
+        "creates": 1
+    }]
+}

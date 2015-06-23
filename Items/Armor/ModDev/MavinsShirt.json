@@ -1,0 +1,12 @@
+{
+    "displayName": "Mavin's Shirt",
+    "size": [26,20],
+    "maxStack": 1,
+    "value": [0,0,0,0],
+    "rare": 9,
+    "tooltip": "Perfect for ripping off! Just...don't do it in public, but the mirror is a great place!",
+    "armorBody": true,
+	"setName": "Mavin's Dev Armor",
+	"hasHands": false,
+	"vanity": true
+}

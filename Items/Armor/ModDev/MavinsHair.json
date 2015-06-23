@@ -1,0 +1,12 @@
+{
+    "displayName": "Mavin's Hair",
+    "size": [30,22],
+    "maxStack": 1,
+    "value": [0,0,0,0],
+    "rare": 9,
+    "tooltip": ">.> My hair doesn't deserve a spot on your head, but it would make a good coster for my DRINK!",
+    "armorHead": true,
+	"setName": "Mavin's Dev Armor",
+    "hairType": 0,
+	"vanity": true
+}
