@@ -7,7 +7,7 @@ using TAPI;
 
 namespace LRPMod.Buffs.Misc
 {
-    public class FreezerBurn : TAPI.ModBuff
+    public class FreezerBurn : ModBuff
     {
         
         public override void Effects(Player player, int index)

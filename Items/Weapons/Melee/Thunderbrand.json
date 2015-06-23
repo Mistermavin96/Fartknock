@@ -13,7 +13,7 @@
 	"useSound": 5,
 	"melee": true,
 	"autoReuse": true,
-	"shoot": 9,
+	"shoot": 259,
 	"shootSpeed": 30,
 	"notMaterial": true,
 	
