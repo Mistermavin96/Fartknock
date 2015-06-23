@@ -1,9 +1,5 @@
 {
     "displayName": "Frost Devil",
     "tip": "Called from the Frozen Hellscape",
-    "debuff": false,
-    "vanityPet": false,
-    "lightPet": false,
-    "enchantment": false,
     "noTimer": true
 }

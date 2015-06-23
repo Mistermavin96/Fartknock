@@ -13,11 +13,10 @@
     "knockback": 5,
     "autoReuse": false,
     "noMelee": true,
-    "shoot": "LRPMod:FrostDevil",
-    "shootSpeed": 3,
+    "shoot": "LRPMod:FrostDevilProj",
+    "shootSpeed": 10,
     "summon": true,
-    "buff": "LRPMod:FrostDevil",
-    "buffTime": 999999999,
+    "buff": "LRPMod:FrostDevilBuff",
     "mana": 10,
 	
 	"recipes": 

@@ -1,10 +1,10 @@
 {
 	"displayName": "Hellfire Scythe",
-	"size": [36, 36],
+	"size": [48, 48],
 	"aiStyle": 23,
 	"friendly": true,
 	"hostile": false,
-	"tileCollide": true,
+	"tileCollide": false,
 	"melee": true,
 	"shootSpeed": 5
 }
