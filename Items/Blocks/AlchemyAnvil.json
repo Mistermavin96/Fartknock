@@ -20,7 +20,7 @@
 	{
 	
         "items": 
-		{"Furnace": 1, "LRPMod:AlchemyCatalyst": 10, "Anvil": 2},
+		{"Furnace": 1, "LRPMod:AlchemyCatalyst": 10, "Iron Anvil": 2},
 		
 		"tiles": 
 		[ "Iron Anvil" ],

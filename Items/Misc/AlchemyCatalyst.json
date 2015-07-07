@@ -12,7 +12,7 @@
 		{ 
 		"Grass Seeds": 1, 
 		"Corrupt Seeds": 1,
-		"Glass Bottle": 1
+		"Bottle": 1
 		},
         "tiles": [ "Iron Anvil"	],
         "creates": 1
@@ -23,7 +23,7 @@
 		{ 
 		"Grass Seeds": 1, 
 		"Crimson Seeds": 1,
-		"Glass Bottle": 1
+		"Bottle": 1
 		},
         "tiles": [ "Iron Anvil" ],
         "creates": 1
