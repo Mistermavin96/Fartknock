@@ -6,19 +6,12 @@ using TAPI;
 using Terraria;
 namespace LRPMod.Items
 {
-
 	public class MavinsCape : ModItem
 	{
-		
 		public override void Effects(Player p)
-		
 		{
-		
-		p.drawGlow = true;
-		p.dripping = true;
-		
+			p.drawGlow = true;
+			p.dripping = true;
 		}
-		
 	}
-	
 }

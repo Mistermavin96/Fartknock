@@ -1,0 +1,11 @@
+{
+	"displayName": "Dorielle Myra",
+	"size": [38, 16],
+	"aiStyle": 26,
+	"friendly": true,
+	"hostile": true,
+	"tileCollide": false,
+	"frameCount": 11,
+	"noGravity": false,
+	"penetrate": -1
+}

@@ -3,7 +3,7 @@
 	"size": [46, 54],
 	"aiStyle": 54,
 	"friendly": true,
-	"hostile": false,
+	"hostile": true,
 	"tileCollide": false,
 	"damage": 33,
 	"frameCount": 8,

@@ -1,0 +1,9 @@
+{
+	"displayName": "Dorielle Myra",
+	"tip": "A pet to honor a member of the LRP mod group before it began, treat her well! In Loving Memory.",
+	"debuff": false,
+	"vanityPet": true,
+	"lightPet": false,
+	"enchantment": false,
+	"noTimer": true
+}
