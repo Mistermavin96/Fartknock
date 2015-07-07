@@ -1,12 +1,12 @@
 {
-    "displayName": "Transmutation Furnace MK1",
-    "size": [46,54],
+    "displayName": "Alchemical Anvil",
+    "size": [48, 20],
     "maxStack": 99,
     "value": [0,0,1,0],
     "rare": 2,
     "tooltip": "Turn those old ores into new ones, and back again with the touch of a button!",
 	"useStyle": 1,
-	"createTile": "LRPMod:TransmutationFurnace1",
+	"createTile": "LRPMod:AlchemyAnvilTile",
 	"useAnimation": 15,
 	"useTime": 10,
 	"autoReuse": true,
@@ -16,9 +16,17 @@
 	
 
     "recipes":
-    [{
-        "items": { "Furnace": 1, "EarthMaterial": 30},
-        "tiles": [ "Iron Anvil" ],
+    [
+	{
+	
+        "items": 
+		{"Furnace": 1, "LRPMod:AlchemyCatalyst": 10, "Anvil": 2},
+		
+		"tiles": 
+		[ "Iron Anvil" ],
+		
         "creates": 1
-    }]
+    }
+	]
+	
 }

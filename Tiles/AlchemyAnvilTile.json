@@ -1,5 +1,5 @@
 {
-	"displayName": "Transmutation Furnace MK1",
+	"displayName": "Achemical Anvil",
 	"size": [3,2],
 	"frameWidth": 16,
 	"frameHeight": 16,
@@ -10,12 +10,12 @@
 	"solid": false,
 	"placementOrigin": [1,1],
 	"placementConditions": "flatGround",
-	"drop": "LRPMod:TransmutationFurnace1",
+	"drop": "LRPMod:AlchemyAnvil",
 	"breaksByPick": true,	
 	"dust": 1,
 	"sound": 1,
 	"soundGroup": 21,
-	"frameCounterMax": 10,
-	"mapHoverText": "Transmutation Furnace MK1",
+	"frameCounterMax": 16,
+	"mapHoverText": "Achemical Anvil",
 	"solidTop": true
 }

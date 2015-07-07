@@ -278,180 +278,180 @@ namespace LRPMod.Items
             Recipe.newRecipe.createItem.stack = 1;
             Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults(20, false));//Copper Bar
             Recipe.newRecipe.requiredItem[0].stack = 1;
-			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:EarthMaterial"].type, false));//Earth material
+			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:AlchemyCatalyst"].type, false));//Alchemy Cat-A-List
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace2"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:PhilMetalStatTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Tin to Copper
             Recipe.newRecipe.createItem.SetDefaults(20, false);//Copper Bar
             Recipe.newRecipe.createItem.stack = 1;
             Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults(703, false));//Tin Bar
             Recipe.newRecipe.requiredItem[0].stack = 1;
-			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:EarthMaterial"].type, false));//Earth material
+			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:AlchemyCatalyst"].type, false));//Alchemy Cat-A-List
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-			Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace2"]);
+			Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:PhilMetalStatTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Iron to Lead
             Recipe.newRecipe.createItem.SetDefaults(704, false);//Lead Bar
             Recipe.newRecipe.createItem.stack = 1;
             Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults(22, false));//Iron Bar
             Recipe.newRecipe.requiredItem[0].stack = 1;
-			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:EarthMaterial"].type, false));//Earth material
+			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:AlchemyCatalyst"].type, false));//Alchemy Cat-A-List
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace2"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:PhilMetalStatTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Lead to Iron
             Recipe.newRecipe.createItem.SetDefaults(22, false);//Iron Bar
             Recipe.newRecipe.createItem.stack = 1;
             Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults(704, false));//Laed Bar
             Recipe.newRecipe.requiredItem[0].stack = 1;
-			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:EarthMaterial"].type, false));//Earth material
+			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:AlchemyCatalyst"].type, false));//Alchemy Cat-A-List
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace2"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:PhilMetalStatTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Silver to Tungsten
             Recipe.newRecipe.createItem.SetDefaults(705, false);//Tungsten Bar
             Recipe.newRecipe.createItem.stack = 1;
 			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults(21, false));//Silver Bar
             Recipe.newRecipe.requiredItem[0].stack = 1;
-			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:EarthMaterial"].type, false));//Earth material
+			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:AlchemyCatalyst"].type, false));//Alchemy Cat-A-List
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace2"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:PhilMetalStatTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Tungsten to Silver
             Recipe.newRecipe.createItem.SetDefaults(21, false);//Silver Bar
             Recipe.newRecipe.createItem.stack = 1;
             Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults(705, false));//Tungsten Bar
             Recipe.newRecipe.requiredItem[0].stack = 1;
-			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:EarthMaterial"].type, false));//Earth material
+			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:AlchemyCatalyst"].type, false));//Alchemy Cat-A-List
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace2"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:PhilMetalStatTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Gold to Platinum
             Recipe.newRecipe.createItem.SetDefaults(706, false);//Platinum Bar
             Recipe.newRecipe.createItem.stack = 1;
             Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults(19, false));//Gold Rar
             Recipe.newRecipe.requiredItem[0].stack = 1;
-			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:EarthMaterial"].type, false));//Earth material
+			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:AlchemyCatalyst"].type, false));//Alchemy Cat-A-List
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace2"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:PhilMetalStatTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Platinum to Gold
             Recipe.newRecipe.createItem.SetDefaults(19, false);//Gold Bar
             Recipe.newRecipe.createItem.stack = 1;
             Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults(706, false));//Platinum Bar
             Recipe.newRecipe.requiredItem[0].stack = 1;
-			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:EarthMaterial"].type, false));//Earth material
+			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:AlchemyCatalyst"].type, false));//Alchemy Cat-A-List
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace2"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:PhilMetalStatTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Demonite to Crimtane
             Recipe.newRecipe.createItem.SetDefaults(1257, false);//Crimtane Bar
             Recipe.newRecipe.createItem.stack = 1;
             Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults(57, false));//Demonite Bar
             Recipe.newRecipe.requiredItem[0].stack = 1;
-			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:EarthMaterial"].type, false));//Earth material
+			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:AlchemyCatalyst"].type, false));//Alchemy Cat-A-List
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace2"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:PhilMetalStatTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Crimtane to Demonite
             Recipe.newRecipe.createItem.SetDefaults(57, false);//Demonite Bar
             Recipe.newRecipe.createItem.stack = 1;
             Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults(1257, false));//Crimtane Bar
             Recipe.newRecipe.requiredItem[0].stack = 1;
-			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:EarthMaterial"].type, false));//Earth material
+			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:AlchemyCatalyst"].type, false));//Alchemy Cat-A-List
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace2"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:PhilMetalStatTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Copper to Tin
             Recipe.newRecipe.createItem.SetDefaults(703, false);//Tin Bar
             Recipe.newRecipe.createItem.stack = 1;
             Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults(20, false));//Copper Bar
             Recipe.newRecipe.requiredItem[0].stack = 1;
-			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:EarthMaterial"].type, false));//Earth material
+			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:AlchemyCatalyst"].type, false));//Alchemy Cat-A-List
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace1"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:AlchemyAnvilTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Tin to Copper
             Recipe.newRecipe.createItem.SetDefaults(20, false);//Copper Bar
             Recipe.newRecipe.createItem.stack = 1;
             Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults(703, false));//Tin Bar
             Recipe.newRecipe.requiredItem[0].stack = 1;
-			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:EarthMaterial"].type, false));//Earth material
+			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:AlchemyCatalyst"].type, false));//Alchemy Cat-A-List
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-			Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace1"]);
+			Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:AlchemyAnvilTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Iron to Lead
             Recipe.newRecipe.createItem.SetDefaults(704, false);//Lead Bar
             Recipe.newRecipe.createItem.stack = 1;
             Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults(22, false));//Iron Bar
             Recipe.newRecipe.requiredItem[0].stack = 1;
-			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:EarthMaterial"].type, false));//Earth material
+			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:AlchemyCatalyst"].type, false));//Alchemy Cat-A-List
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace1"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:AlchemyAnvilTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Lead to Iron
             Recipe.newRecipe.createItem.SetDefaults(22, false);//Iron Bar
             Recipe.newRecipe.createItem.stack = 1;
             Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults(704, false));//Laed Bar
             Recipe.newRecipe.requiredItem[0].stack = 1;
-			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:EarthMaterial"].type, false));//Earth material
+			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:AlchemyCatalyst"].type, false));//Alchemy Cat-A-List
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace1"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:AlchemyAnvilTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Silver to Tungsten
             Recipe.newRecipe.createItem.SetDefaults(705, false);//Tungsten Bar
             Recipe.newRecipe.createItem.stack = 1;
             Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults(21, false));//Silver Bar
             Recipe.newRecipe.requiredItem[0].stack = 1;
-			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:EarthMaterial"].type, false));//Earth material
+			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:AlchemyCatalyst"].type, false));//Alchemy Cat-A-List
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace1"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:AlchemyAnvilTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Tungsten to Silver
             Recipe.newRecipe.createItem.SetDefaults(21, false);//Silver Bar
             Recipe.newRecipe.createItem.stack = 1;
             Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults(705, false));//Tungsten Bar
             Recipe.newRecipe.requiredItem[0].stack = 1;
-			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:EarthMaterial"].type, false));//Earth material
+			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:AlchemyCatalyst"].type, false));//Alchemy Cat-A-List
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace1"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:AlchemyAnvilTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Gold to Platinum
             Recipe.newRecipe.createItem.SetDefaults(706, false);//Platinum Bar
             Recipe.newRecipe.createItem.stack = 1;
             Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults(19, false));//Gold Rar
             Recipe.newRecipe.requiredItem[0].stack = 1;
-			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:EarthMaterial"].type, false));//Earth material
+			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:AlchemyCatalyst"].type, false));//Alchemy Cat-A-List
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace1"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:AlchemyAnvilTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Platinum to Gold
             Recipe.newRecipe.createItem.SetDefaults(19, false);//Gold Bar
             Recipe.newRecipe.createItem.stack = 1;
             Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults(706, false));//Platinum Bar
             Recipe.newRecipe.requiredItem[0].stack = 1;
-			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:EarthMaterial"].type, false));//Earth material
+			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:AlchemyCatalyst"].type, false));//Alchemy Cat-A-List
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace1"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:AlchemyAnvilTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Demonite to Crimtane
             Recipe.newRecipe.createItem.SetDefaults(1257, false);//Crimtane Bar
             Recipe.newRecipe.createItem.stack = 1;
             Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults(57, false));//Demonite Bar
             Recipe.newRecipe.requiredItem[0].stack = 1;
-			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:EarthMaterial"].type, false));//Earth material
+			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:AlchemyCatalyst"].type, false));//Alchemy Cat-A-List
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace1"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:AlchemyAnvilTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Crimtane to Demonite
             Recipe.newRecipe.createItem.SetDefaults(57, false);//Demonite Bar
             Recipe.newRecipe.createItem.stack = 1;
             Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults(1257, false));//Crimtane Bar
             Recipe.newRecipe.requiredItem[0].stack = 1;
-			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:EarthMaterial"].type, false));//Earth material
+			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:AlchemyCatalyst"].type, false));//Alchemy Cat-A-List
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace1"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:AlchemyAnvilTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Cobalt to Palladium
             Recipe.newRecipe.createItem.SetDefaults(1184, false);//Palladium Bar
@@ -460,7 +460,7 @@ namespace LRPMod.Items
             Recipe.newRecipe.requiredItem[0].stack = 1;
 			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:DarkMatter"].type, false));//Dark Matter
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace2"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:PhilMetalStatTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Palladium to Cobalt
             Recipe.newRecipe.createItem.SetDefaults(381, false);//Cobalt Bar
@@ -469,7 +469,7 @@ namespace LRPMod.Items
             Recipe.newRecipe.requiredItem[0].stack = 1;
 			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:DarkMatter"].type, false));//Dark Matter
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace2"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:PhilMetalStatTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Mythril to Orichalcum
             Recipe.newRecipe.createItem.SetDefaults(1191, false);//Orichalcum Bar
@@ -478,7 +478,7 @@ namespace LRPMod.Items
             Recipe.newRecipe.requiredItem[0].stack = 1;
 			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:DarkMatter"].type, false));//Dark Matter
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace2"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:PhilMetalStatTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Orichalcum to Mythril
             Recipe.newRecipe.createItem.SetDefaults(382, false);//Mythril Bar
@@ -487,7 +487,7 @@ namespace LRPMod.Items
             Recipe.newRecipe.requiredItem[0].stack = 1;
 			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:DarkMatter"].type, false));//Dark Matter
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace2"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:PhilMetalStatTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Adamantite to Titanium
             Recipe.newRecipe.createItem.SetDefaults(1198, false);//Titanium Bar
@@ -496,7 +496,7 @@ namespace LRPMod.Items
             Recipe.newRecipe.requiredItem[0].stack = 1;
 			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:DarkMatter"].type, false));//Dark Matter
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace2"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:PhilMetalStatTile"]);
             Recipe.AddRecipe();
 			//This is the crafting for Titanium to Adamantite
             Recipe.newRecipe.createItem.SetDefaults(391, false);//Adamantite Bar
@@ -505,7 +505,7 @@ namespace LRPMod.Items
             Recipe.newRecipe.requiredItem[0].stack = 1;
 			Recipe.newRecipe.requiredItem.Add(new Item().SetDefaults( ItemDef.byName["LRPMod:DarkMatter"].type, false));//Dark Matter
 			Recipe.newRecipe.requiredItem[1].stack = 1;
-            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:TransmutationFurnace2"]);
+            Recipe.newRecipe.requiredTile.Add(TileDef.byName["LRPMod:PhilMetalStatTile"]);
             Recipe.AddRecipe();
 			
 			
