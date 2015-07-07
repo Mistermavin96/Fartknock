@@ -13,8 +13,6 @@
 	"useTurn": true,
 	"notMaterial": true,
 	"consumable": true,
-	
-
     "recipes":
     [
 	{

@@ -16,6 +16,7 @@
 	"sound": 1,
 	"soundGroup": 21,
 	"frameCounterMax": 16,
+	"frameMax": 16,
 	"mapHoverText": "Achemical Anvil",
 	"solidTop": true
 }
