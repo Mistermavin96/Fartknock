@@ -1,0 +1,13 @@
+{
+	"displayName": "Cursed Flamarang",
+	"size": [22, 36],
+	"aiStyle": 3,
+	"friendly": true,
+	"hostile": false,
+	"tileCollide": true,
+	"melee": true,
+	"penetrate": -1,
+	"maxUpdates": 1,
+	"light": 1.0,
+	"timeLeft": 2000
+}

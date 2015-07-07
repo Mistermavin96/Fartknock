@@ -7,8 +7,8 @@
 	"damage": 42,
 	"knockback": 8.5,
 	"tooltip": "Twice the fun!",
-    "useTime": 30,
-    "useAnimation": 60,
+    "useTime": 20,
+    "useAnimation": 20,
 	"useSound": 1,
 	"noMelee": true,
 	"melee": true,
@@ -16,12 +16,12 @@
 	"noUseGraphic": true,
 	"useStyle": 1,
 	"shoot": "FrostflameChakramProj",
-	"shootSpeed": 15,
+	"shootSpeed": 14,
 	"notMaterial": true,
 	
 	"recipes": 
 	[{
-			"items": { "Blizzarang": 1, "Flamarang": 1, "FrostflameBar": 8 },
+			"items": { "Blizzarang": 1, "CursedFlamarang": 1, "Hallowed Bar": 1 },
 			"tiles": [ "Mythril Anvil" ],
 			"creates": 1
 	}]

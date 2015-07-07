@@ -1,0 +1,27 @@
+{
+	"displayName": "Cursed Flamarang",
+	"size": [22, 36],
+	"maxStack": 1,
+	"value": [0,3,0,0],
+	"rare": 4,
+	"damage": 37,
+	"knockback": 8,
+    "useTime": 12,
+    "useAnimation": 12,
+	"useSound": 1,
+	"noMelee": true,
+	"melee": true,
+	"autoReuse": true,
+	"noUseGraphic": true,
+	"useStyle": 1,
+	"shoot": "CursedFlamarangProj",
+	"shootSpeed": 12,
+	"notMaterial": true,
+	
+	"recipes": 
+	[{
+			"items": { "Flamarang": 1, "Cursed Flame": 15 },
+			"tiles": [ "Iron Anvil" ],
+			"creates": 1
+	}]
+}

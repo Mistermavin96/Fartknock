@@ -19,7 +19,7 @@
 	
 	"recipes": 
 	[{
-			"items": { "Cursed Flame": 30, "EmberScythe": 1 },
+			"items": { "Cursed Flame": 15, "EmberScythe": 1 },
 			"tiles": [ "Iron Anvil" ],
 			"creates": 1
 	}]
