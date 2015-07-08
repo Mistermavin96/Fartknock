@@ -1,0 +1,13 @@
+{
+	"displayName": "Soul Ice",
+	"size": [1,1],
+	"frameWidth": 16,
+	"frameHeight": 16,
+	"drop": "LRPMod:SoulIce",
+	"breaksByPick": true,	
+	"shines": true,
+	"minPick": 100,
+	"glows": true,
+	"shineChance": 1,
+	"solid": true
+}
