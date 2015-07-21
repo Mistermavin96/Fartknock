@@ -2,7 +2,7 @@
 	"displayName": "Frostflame Chakram",
 	"size": [32, 32],
 	"maxStack": 1,
-	"value": [0,3,0,0],
+	"value": [0,6,0,0],
 	"rare": 4,
 	"damage": 42,
 	"knockback": 8.5,
@@ -21,7 +21,7 @@
 	
 	"recipes": 
 	[{
-			"items": { "Blizzarang": 1, "CursedFlamarang": 1, "Hallowed Bar": 1 },
+			"items": { "Blizzarang": 1, "CursedFlamarang": 1, "Hallowed Bar": 5 },
 			"tiles": [ "Mythril Anvil" ],
 			"creates": 1
 	}]

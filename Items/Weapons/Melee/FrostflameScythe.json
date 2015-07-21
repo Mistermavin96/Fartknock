@@ -19,7 +19,7 @@
 	
 	"recipes": 
 	[{
-			"items": { "CursedScythe": 1, "Ice Sickle": 1, "FrostflameBar": 15 },
+			"items": { "CursedScythe": 1, "Ice Sickle": 1, "Hallowed Bar": 5 },
 			"tiles": [ "Mythril Anvil" ],
 			"creates": 1
 	}]
